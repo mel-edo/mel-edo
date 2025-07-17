@@ -1,6 +1,6 @@
 ### Hey, I’m Saurabh 
 
-> CS undergrad tinkering with systems, automation, and other cool stuff
+> CS undergrad tinkering with systems, automation and other cool stuff
 
 ---
 
