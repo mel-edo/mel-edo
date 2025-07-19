@@ -10,11 +10,11 @@
 
 💻 **Projects in progress**
 
-· Voice assistant CLI  
+· Voice assistant for linux
 
-· Jetpack compose fintech app  
+· Fintech app using jetpack compose  
 
-· Hyprland rice sing quickshell
+· Hyprland rice using quickshell
 
 · Chip8 emulator using rust 
 
