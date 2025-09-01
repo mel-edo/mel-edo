@@ -6,13 +6,11 @@
 
 🛠️ **Currently working with**  
 
-`Rust`  `Python`  `Kotlin`  `Bash`  `Linux`  `QML`
+`Rust`  `Python`  `Bash`  `Linux`  `QML`
 
 💻 **Projects in progress**
 
 · Voice assistant for linux
-
-· Fintech app using jetpack compose  
 
 · Hyprland rice using quickshell
 
