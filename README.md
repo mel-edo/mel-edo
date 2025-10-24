@@ -1,6 +1,6 @@
 ### Hey, I’m Saurabh 
 
-> CS undergrad tinkering with systems, automation and other cool stuff
+> CS undergrad tinkering with systems, automation and other stuff
 
 ---
 
@@ -10,17 +10,17 @@
 
 💻 **Projects in progress**
 
-· Voice assistant for linux
-
 · Hyprland rice using quickshell
 
-· Chip8 emulator using rust 
+· Gameboy emulator using rust
+
+· Voice assistant for linux
 
 🌱 **Currently exploring**
 
 · Rust systems dev  
 
-· Minimalist OS tools
+· OS stuff
 
 <details>
   <summary>🐧 Know more about me</summary>
