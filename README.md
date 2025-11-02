@@ -10,17 +10,17 @@
 
 💻 **Projects in progress**
 
-· Hyprland rice using quickshell
-
 · Gameboy emulator using rust
+
+· Hyprland rice using quickshell
 
 · Voice assistant for linux
 
 🌱 **Currently exploring**
 
-· Rust systems dev  
+· Emu dev  
 
-· OS stuff
+· Cool static websites
 
 <details>
   <summary>🐧 Know more about me</summary>
