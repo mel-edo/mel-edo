@@ -14,7 +14,7 @@
 
 · Hyprland rice using quickshell
 
-· Voice assistant for linux
+· Somewhat capable voice assistant
 
 🌱 **Currently exploring**
 
