@@ -4,11 +4,11 @@
 
 ---
 
-🛠️ **Currently working with**  
+**Currently working with**  
 
 `Rust`  `Python`  `Bash`  `Linux`  `QML`
 
-💻 **Projects in progress**
+**Projects in progress**
 
 · Gameboy emulator using rust
 
@@ -16,7 +16,7 @@
 
 · Somewhat capable voice assistant
 
-🌱 **Currently exploring**
+**Currently exploring**
 
 · Emu dev  
 
@@ -33,4 +33,4 @@
 
 ---
 
-📬 [Mail me!](mailto:meledo@duck.com)
+[![Mail me!](https://img.shields.io/badge/Mail_me!-b4befe?style=flat-square)](mailto:meledo@duck.com)
