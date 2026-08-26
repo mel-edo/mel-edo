@@ -7,8 +7,6 @@
 ### Projects in progress
 - **Gameboy emulator** – Writing a DMG emulator from scratch
 - **Hyprland rice** – Custom WM configuration with Quickshell
-- **sift-video** – Natural language search inside videos
-- **dsync** – Decentralized P2P LAN file synchronizer
 
 ### Currently exploring
 - Low-level emulation dev
