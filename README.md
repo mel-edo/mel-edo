@@ -4,10 +4,6 @@
 
 ---
 
-### Projects in progress
-- **Gameboy emulator** – Writing a DMG emulator from scratch
-- **Hyprland rice** – Custom WM configuration with Quickshell
-
 ### Currently exploring
 - Low-level emulation dev
 - Cool static sites & indie web
